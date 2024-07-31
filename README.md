@@ -1,2 +1,2 @@
-# scma632-A1a
-NSSO Data Analysis
+Preliminary preparation and analysis of data- Descriptive statistics
+NSSO DataAnalysis
